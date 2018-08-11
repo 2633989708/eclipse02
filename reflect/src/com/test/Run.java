@@ -6,7 +6,7 @@ import java.lang.reflect.Method;
 import com.entity.Userinfo;
 
 public class Run {
-	
+	//主函数的入口
 	public static void main(String[] args) {
 		try {
 			//用3种方式取得Userinfo类的Class对象
