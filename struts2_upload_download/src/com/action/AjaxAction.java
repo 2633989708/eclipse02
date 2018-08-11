@@ -20,4 +20,8 @@ public class AjaxAction extends ActionSupport{
 		return null;
 	}
 	
+	public static void main(String[] args) {
+		
+	}
+	
 }
